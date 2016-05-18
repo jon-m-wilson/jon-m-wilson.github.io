@@ -4,4 +4,4 @@ title: "Entry 1"
 date: 2016-03-20
 ---
 
-Blog entry.
+Blog entry using markdown.
