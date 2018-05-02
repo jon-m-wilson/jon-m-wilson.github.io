@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Entry 1"
-date: 2016-03-20
+title: "Cluster algebras"
 ---
 
 Blog entry using markdown.
