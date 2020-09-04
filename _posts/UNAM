@@ -1,0 +1,108 @@
+---
+layout: default
+title: Cluster algebras at UNAM
+---
+
+<h1 style="font-size:20px;">Cluster Algebras &mdash; 2019</h1>
+	<body>
+
+<HR>
+<p style="font-size:12px;"><B>Lectures:</B> Monday, Tuesday 11.30am-1pm. 
+</p>
+<p style="font-size:12px;"><B>Lecturer: </B> Jon Wilson (<TT>jon<!--despam-->.<span>wilson&#x40;im.<span>unam.<span>mx</TT>)
+</p>
+<p style="font-size:12px;"><B>Location:</B> Second floor lounge of the new IMUNAM building.
+</p>
+
+<HR>
+
+           
+<p><h1 style="font-size:15px;">Course Description:</h1></p>
+
+<p style="font-size:13px;">Fomin and Zelevinsky's cluster algebras are a 21st centrury construct which propogate through vast areas of mathematics. <br />
+The general set-up of their cluster algebra is incredibly simple; one starts with a finite number of variables, called an initial cluster, <br />
+and then iteratively creates more using only high school algebra. <br />
+In this course we will explore some of the fundamental properties of cluster algebras, and tour combinatorial, geometric and algebraic concepts <br />
+which exhibit this newfound structure. 
+	</p>
+
+<p><h1 style="font-size:15px;">Lecture Schedule</h1></p>
+                              
+<p style="font-size:12px;">Lecture 1: Motivation for cluster algebras Part I &mdash; positivity tests of Gr(2,n). 
+</p>
+
+<p style="font-size:12px;">Lecture 2: Motivation for cluster algebras Part II &mdash; positivity tests of flag minors. 
+</p>
+
+<p style="font-size:12px;">Lecture 3: Motivation for cluster algebras Part III &mdash; total positivity tests of nxn matrices. 
+</p>
+
+<p style="font-size:12px;">Lecture 4: Definition of a cluster algebra and examples. 
+</p>
+
+<p style="font-size:12px;">Lecture 5: Diagram mutation and the link between diagrams and skew-symmetrizable matrices. 
+</p>
+
+<p style="font-size:12px;">Lecture 6: Proof of the Laurent phenomenon Part I. 
+</p>
+
+<p style="font-size:12px;">Lecture 7: Proof of the Laurent phenomenon Part II. 
+</p>
+
+<p style="font-size:12px;">Lecture 8: Y-seed patterns, cross ratios, and the Pentegram Map. 
+</p>
+
+<p style="font-size:12px;">Lecture 9: Moving towards finite type classification Part I &mdash; tropical semi-fields and Y-dynamics in replace of extended part of exchange matrices. 
+</p>
+
+<p style="font-size:12px;">Lecture 10: Moving towards finite type classification Part II &mdash; coverings of exchange graphs via change of coefficients, and the classification of rank 2 cluster algebras. 
+</p>
+
+<p style="font-size:12px;">Lecture 11: Classification of type A<sub>n</sub> seed patterns.
+</p>
+
+<p style="font-size:12px;">Lecture 12: Classification of type D<sub>n</sub> seed patterns.
+</p>
+
+<p style="font-size:12px;">Lecture 13: Folding quivers to get new seed patterns.
+</p>
+
+<p style="font-size:12px;">Lecture 14: Classification of type B<sub>n</sub>, C<sub>n</sub>, F<sub>4</sub>, G<sub>2</sub> seed patterns via folding, and a remark on the finiteness of E<sub>6</sub>, E<sub>7</sub>, E<sub>8</sub>.
+</p>
+
+<p style="font-size:12px;">Lecture 15: Classification of finite type cluster algebras via 2-finiteness.
+</p>
+
+<p style="font-size:12px;">Lecture 16: Basics of bordered surfaces and their ideal triangulations. 
+</p>
+	
+<p style="font-size:12px;">Lecture 17: Connectivity of ideal triangulations via flips. 
+</p>
+	
+<p style="font-size:12px;">Lecture 18: Cluster algebras from surfaces Part I &mdash; tagged triangulations and their associated quivers. 
+</p>
+  
+<p style="font-size:12px;">Lecture 19: Cluster algebras from surfaces Part II &mdash; The decorated Teichm&uuml;ller space. 
+</p>
+  
+<p style="font-size:12px;">Lecture 19: Cluster algebras from surfaces Part III &mdash; Keeping track of coefficients via laminations. 
+</p>
+
+<p style="font-size:12px;">Lecture 20: Mutation finite cluster algebras (of skew-symmetric type). 
+</p>
+
+<p style="font-size:12px;">Lecture 21: Denominator vectors, g-vectors and c-vectors. 
+</p>
+
+<p style="font-size:12px;">Lecture 22: F-polynomials and 'separation of additions'.
+</p>
+
+<p><h1 style="font-size:15px;">Student Presentations</h1></p>
+
+<p style="font-size:12px;">Edgar V&aacute;zquez: Cluster variable expansions via perfect matchings of snake graphs.
+</p>
+
+<p style="font-size:12px;">Andr&eacute;s Flores: Properties of Laurent phenomenon algebras.
+</p>
+  
+</body>
