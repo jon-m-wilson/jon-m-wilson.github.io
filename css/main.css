@@ -41,3 +41,33 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.profile-container {
+    display: flex;
+    align-items: flex-start;  /* aligns image with first paragraph */
+    gap: 30px;
+}
+
+.profile-text {
+    flex: 1;
+}
+
+.profile-image {
+    flex-shrink: 0;
+}
+
+.profile-image img {
+    width: 220px;   /* adjust as desired */
+    height: auto;
+    border-radius: 4px;
+}
+
+@media (max-width: 768px) {
+    .profile-container {
+        flex-direction: column;
+    }
+
+    .profile-image {
+        margin-top: 10px;
+    }
+}
